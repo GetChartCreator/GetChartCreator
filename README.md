@@ -47,7 +47,7 @@ Most traders guess where the stops are. **My backend calculates it.**
 
 ### 🖥️ Desktop Command Center
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Show+The+Main+Chart+Interface" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);" />
+  ![Image](https://github.com/user-attachments/assets/376579c4-7849-4bfe-a481-1c2b5176bed8)
 </p>
 
 ### 📱 Mobile Precision
@@ -62,11 +62,11 @@ Most traders guess where the stops are. **My backend calculates it.**
 
 <p align="left">
   <a href="https://t.me/getchart_register_bot">
-    <img src="https://img.shields.io/badge/Telegram_Bot-Start_Free_Trial-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    ![Image](https://github.com/user-attachments/assets/b379277d-a733-4f58-8f9b-5949a0896a0d)
   </a>
   &nbsp;&nbsp;
   <a href="https://getchart.cc">
-    <img src="https://img.shields.io/badge/Web_Terminal-Launch_Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img width="1919" height="951" alt="Image" src="https://github.com/user-attachments/assets/5c08c571-1bd0-45e6-8a41-31c63d596dc6" />
   </a>
 </p>
 

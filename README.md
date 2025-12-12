@@ -1,87 +1,92 @@
-### 👾 Chaos to Clarity: The GetChart Philosophy
+# ⚡ Architecting the Future of Retail Trading
 
-**I don't just write code. I build tools that give traders an unfair advantage.**
-Currently architecting **GetChart** — a razor-sharp alternative to the bloated mess of modern trading platforms.
-
----
-
-### 🌊 Why GetChart? (The Mission)
-> *"TradingView is a toy store. GetChart is a weapon arsenal."*
-
-Втомився перебирати **тисячі сміттєвих індикаторів**, які малюють веселку і зливають депозит? Мені теж це набридло. Тому я створив **GetChart**.
-
-Це не просто "ще один термінал". Це **готова екосистема для аналізу**, де немає нічого зайвого:
-* ❌ **No Noise:** Ніяких "чарівних" скриптів від школярів.
-* ✅ **Curated Alpha:** Тільки перевірені інструменти + **унікальні кастомні розробки**, яких немає в пабліку.
-* 📱 **Mobile First:** Повноцінний робочий стіл трейдера, який літає на телефоні.
+**I don't just build websites. I build weapons for market analysis.**
+Software Engineer specialized in High-Frequency Data, Fintech, and Real-Time Analytics.
 
 ---
 
-### 🧠 Under the Hood: Real Features, No Fluff
+## 🌊 The Philosophy: Why GetChart Exists?
 
-Тут не тільки графіки. Бекенд "перетравлює" гігабайти глобальних даних, щоб показати тобі суть:
+> *"TradingView is a library. GetChart is a sniper rifle."*
 
-* **📊 Smart Liquidation Levels:**
-    Мій алгоритм на сервері рахує, де стопи натовпу, і малює це прямо на графіку. Ти бачиш, куди піде маркет-мейкер.
-* **🚨 Intelligent Alerts:**
-    Забудь про прості "ціна перетнула лінію". Система моніторить:
-    * Зміни **Long/Short Ratio** (де пастка?).
-    * Аномалії в **Net Taker Volume** (хто зараз купує по ринку?).
-* **⚡ All-in-One Dashboard:**
-    Всі панелі, стакани та індикатори на одній сторінці. Один погляд — і ти розумієш ситуацію.
+Modern trading platforms are broken. Traders are drowning in noise, wasting hours filtering through thousands of useless, repainting indicators created by amateurs. The mobile experience is usually an afterthought, clunky and slow.
+
+**I got tired of the chaos. So I built the solution.**
+
+**GetChart** is a curated, high-performance ecosystem designed for one purpose: **Clarity**.
+It aggregates global market data, processes it through complex backend algorithms, and delivers clear signals. No noise. No lag. Just pure alpha.
 
 ---
 
-### 📸 The Interface
-*Clean. Fast. Professional.*
+## 🧠 The Arsenal: Beyond Standard Indicators
 
+This isn't just "price action." The system calculates deep market metrics in real-time.
+
+### 📊 1. Institutional Liquidation Levels
+Most traders guess where the stops are. **My backend calculates it.**
+* The system analyzes global order book data to visualize where Market Makers are likely to hunt liquidity.
+* **Result:** You see the "kill zones" before price gets there.
+
+### ⚖️ 2. Real-Time Sentiment Analysis
+* **Long/Short Ratio:** Instantly spot when the crowd is overly bullish (bull trap) or bearish (bear trap).
+* **Net Taker Volume:** See the *real* aggressive buying or selling pressure hidden inside the candles.
+
+### 📱 3. True Mobile-First Experience
+* Traders aren't always at their desks. I engineered the frontend to be fully responsive.
+* **Complex charts, liquidation heatmaps, and alert panels** — all optimized for your phone screen.
+
+### 🚨 4. Intelligent Alerting System
+* Forget simple price alerts.
+* **Logic:** *"Alert me when Long/Short Ratio spikes > 2.5 AND Price hits Liquidation Level."*
+* Delivered instantly via Telegram and WebSocket.
+
+---
+
+## 📸 Interface Preview
+*Real production screenshots. Clean UI, complex data.*
+
+### 🖥️ Desktop Command Center
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Show+Them+The+Clean+Chart+UI" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);" />
+  <img src="https://via.placeholder.com/800x450.png?text=Show+The+Main+Chart+Interface" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);" />
 </p>
+
+### 📱 Mobile Precision
 <p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Liquidation+Levels+&+Alerts+Panel" width="100%" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/400x700.png?text=Mobile+Version+UI" width="45%" style="border-radius: 8px; margin-right: 10px;" />
+  <img src="https://via.placeholder.com/400x700.png?text=Alerts+&+Settings+Panel" width="45%" style="border-radius: 8px;" />
 </p>
 
 ---
 
-### 🚀 Join the Beta
-Don't trust words. Trust the data.
+## 🚀 Access the Ecosystem
 
 <p align="left">
   <a href="https://t.me/getchart_register_bot">
-    <img src="https://img.shields.io/badge/Telegram_Bot-Start_Access-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram_Bot-Start_Free_Trial-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://getchart.cc">
-    <img src="https://img.shields.io/badge/Web_Platform-Launch_Terminal-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web_Terminal-Launch_Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠 The Stack (Built for Speed)
+## 🛠 Under the Hood: Built for Speed
 
-Я використовую ці технології не тому, що вони модні, а тому, що вони **витримують навантаження**:
+I chose this stack not because it's trendy, but because it handles **thousands of websocket messages per second**.
 
-**The Engine (Backend)**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-High_Load-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Data_Lake-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-**The Face (Frontend)**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-Vanilla_Power-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lightweight--Charts-Custom_Ver_5.0-121212?style=flat-square" />
-</p>
-
-**Infrastructure & Biz**
-<p align="left">
-  <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CryptoBot-Payments-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-</p>
+| Component | Technology | Why? |
+| :--- | :--- | :--- |
+| **Backend Core** | `Python` + `FastAPI` | Asynchronous handling of massive real-time data streams. |
+| **Database** | `PostgreSQL` | Reliable storage for historical market data. |
+| **Caching** | `Redis` | Sub-millisecond access to "hot" data (alerts, live prices). |
+| **Frontend** | `JS` + `Lightweight-charts 5.0` | Custom implementation for silky-smooth 60fps rendering. |
+| **Infrastructure** | `Nginx` + `Docker` | Production-grade security and containerization. |
+| **Payments** | `CryptoPay API` | Fully automated crypto subscription management. |
 
 ---
-<p align="right"><i>Designed & Developed in Ukraine 🇺🇦. DM for collab.</i></p>
+<p align="center">
+  <i>Crafted with 🖤 and C++ tears in Ukraine 🇺🇦</i><br>
+  <b>Open for High-Level Engineering Collaborations.</b>
+</p>
